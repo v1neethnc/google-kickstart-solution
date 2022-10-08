@@ -3,8 +3,8 @@
 # https://github.com/v1neethnc/google-kickstart-solutions
 
 # Run the code using:
-# python 02_captain_hammer.py < ../files/01_sample_input1.txt
-# python 02_captain_hammer.py < ../files/01_test_input1.txt
+# python 02_captain_hammer.py < ../files/02_sample_input1.txt
+# python 02_captain_hammer.py < ../files/02_test_input1.txt
 # Compare the console outputs with the ones in the corresponding output files
 
 
