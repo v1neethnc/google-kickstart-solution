@@ -1,5 +1,6 @@
 # Google Kickstart: Practice Round, 2013
 # Title: Moist (4 pts, 6 pts)
+# https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434944/0000000000434c05
 # https://github.com/v1neethnc/google-kickstart-solutions
 
 # Run the code from the 2013-practice-round folder using:
@@ -7,6 +8,7 @@
 # python solutions/01_moist.py < /files/01_test_input1.txt
 # python solutions/01_moist.py < /files/01_test_input2.txt
 # Compare the console outputs with the ones in the corresponding output files
+
 
 n = int(input())
 ctr = 0

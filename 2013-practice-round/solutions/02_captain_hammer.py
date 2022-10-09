@@ -1,5 +1,6 @@
 # Google Kickstart: Practice Round, 2013
 # Title: Captain Hammer (22 pts)
+# https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434944/0000000000434d9a
 # https://github.com/v1neethnc/google-kickstart-solutions
 
 # Run the code using:

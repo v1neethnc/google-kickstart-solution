@@ -1,5 +1,6 @@
 # Google Kickstart: Practice Round, 2013
 # Title: Bad Horse (12 pts, 21 pts)
+# https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434944/0000000000434749
 # https://github.com/v1neethnc/google-kickstart-solutions
 
 # Run the code using:
@@ -7,6 +8,7 @@
 # python 03_bad_horse.py < ../files/03_test_input1.txt
 # python 03_bad_horse.py < ../files/03_test_input2.txt
 # Compare the console outputs with the ones in the corresponding output files
+
 
 class villian_coloring:
 	def  __init__(self):
